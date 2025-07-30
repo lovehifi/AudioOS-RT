@@ -7,9 +7,11 @@ This system integrates the open-source [Material Skin](https://github.com/CDrumm
 <p align="center">
   <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/ontv.jpg" alt="AudioOS RT UI Screenshot" style="max-width:80%; border-radius: 1rem; box-shadow: 0 2px 16px rgba(0,0,0,0.2);">
 </p>
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/web_phone.png" alt="On phone" style="max-width:80%; border-radius: 1rem; box-shadow: 0 2px 16px rgba(0,0,0,0.2);">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/Test_RT.png" alt="Real-time Test" style="max-width:80%; border-radius: 1rem; box-shadow: 0 2px 16px rgba(0,0,0,0.2);">
 </p>
 ---
 
