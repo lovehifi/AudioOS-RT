@@ -13,7 +13,7 @@
   YouTube Music · YouTube · Tidal · Qobuz · Spotify.
 
 - **Server bridges**  
-  • Roon Core Server  
+  • Roon Core Server
   • HQPlayer
   • UPnP GStreamer renderer (works with BubbleUPnP, mconnect Player, etc.).
 
