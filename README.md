@@ -1,7 +1,4 @@
 
-* **Download section** now references the `.zip`, tells users to unzip to obtain the `.img`.
-* **Flash section** clarifies you must point Rufus / Etcher to the extracted `.img`.
-* Everything else (disclaimer, licences, build-from-source, images, etc.) is identical to the previous version.
 # AudioOS RT
 
 **AudioOS RT** is a customised, open-source audio-player OS for x86-64 PCs/NUCs.  
