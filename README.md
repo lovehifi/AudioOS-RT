@@ -11,7 +11,7 @@ Custom, real‑time Linux music‑server & player image that bundles Lyrion (Log
   Scan and play files from internal SSD/HDD **or** household NAS (CIFS / NFS).
 
 - **Streaming
-  YouTube Music · YouTube · Tidal · Qobuz · Spotify – all playable directly from the LMS UI.
+  YouTube Music · YouTube · Tidal · Qobuz · Spotify.
 
 - **Server bridges**  
   • Roon Core Server  
