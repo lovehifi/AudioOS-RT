@@ -1,4 +1,5 @@
-AudioOS RT – A custom, real-time Linux music-server & player image that bundles Lyrion (Logitech Media Server) and Volumio on a PREEMPT_RT kernel for x86-64 PCs/NUCs.
+# **AudioOS RT**  
+*A custom, real-time Linux music-server & player image that bundles **Lyrion (Logitech Media Server)** and **Volumio** on a **PREEMPT_RT** kernel for x86-64 PCs/NUCs.*
 
 ## Key capabilities – What’s inside?
 
