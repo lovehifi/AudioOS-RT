@@ -4,8 +4,6 @@ Changes made:
 * **Download section** now references the `.zip`, tells users to unzip to obtain the `.img`.
 * **Flash section** clarifies you must point Rufus / Etcher to the extracted `.img`.
 * Everything else (disclaimer, licences, build-from-source, images, etc.) is identical to the previous version.
-
-````markdown
 # AudioOS RT
 
 **AudioOS RT** is a customised, open-source audio-player OS for x86-64 PCs/NUCs.  
@@ -71,6 +69,12 @@ It is built from
 ## 4  Build the image yourself
 
 ```bash
+# build host: Debian/Ubuntu with Docker
+sudo apt install git curl docker docker-compose
+git clone https://github.com/volumio/build-platform-x64
+cd build-platform-x64
+./mkplatform.sh audioos-rt     # adds PREEMPT_RT + Lyrion patches
+
 # build host: Debian/Ubuntu with Docker
 sudo apt install git curl docker docker-compose
 git clone https://github.com/volumio/build-platform-x64
