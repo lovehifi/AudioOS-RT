@@ -1,5 +1,3 @@
-Below is the corrected `README.md` block (Markdown only).
-Changes made:
 
 * **Download section** now references the `.zip`, tells users to unzip to obtain the `.img`.
 * **Flash section** clarifies you must point Rufus / Etcher to the extracted `.img`.
