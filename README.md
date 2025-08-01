@@ -22,8 +22,7 @@ Custom, real‑time Linux music‑server & player image that bundles Lyrion (Log
   No Internet? Enable the PC’s own Wi-Fi AP and control everything from your phone.
 
 - **Next-gen audio transports**  
-  **Diretta** and **AoE Vsound Netmap** for bit-perfect, low-CPU LAN streaming  
-  (lighter than HQPlayer’s network mode, keeps sound un-altered).
+  **Diretta Host** and **AoE Vsound Netmap** for bit-perfect, low-CPU LAN streaming.
 
 - **Universal web control**  
   Open **`http://<your-PC-IP>:9000`** on any phone, tablet or desktop → Material Skin UI.
