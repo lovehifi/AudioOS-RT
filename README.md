@@ -134,10 +134,6 @@ See each repository for complete licence texts.
 
 ## 8  Thank you!
 
-If this project helps you, please consider a small donation 😊
 
 ```
-
-Paste this text into your `README.md`; it now matches your exact distribution method (ZIP → IMG → USB) while keeping every other requirement intact.
-::contentReference[oaicite:0]{index=0}
 ```
