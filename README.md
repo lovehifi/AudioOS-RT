@@ -27,7 +27,7 @@ It is built from
 
 1. Download the **ZIP** archive above.  
 2. **Extract** it – you will get `LyrionRTVolumio_1.4f7.img`.  
-3. Verify the **SHA-256** of the extracted `.img` before flashing.
+
 
 ---
 
