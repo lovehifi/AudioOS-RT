@@ -1,7 +1,36 @@
-# AudioOS RT
+AudioOS RT
 
-**AudioOS RT** is a customised, open-source audio-player OS for x86-64 PCs/NUCs.  
-It is built from
+Custom, real‑time Linux music‑server & player image that bundles Lyrion (Logitech Media Server) and Volumio on a PREEMPT_RT kernel for x86‑64 computers. Built for bit‑perfect, headless playback and lab work.
+
+## Key capabilities – What’s inside?
+
+- **Real-time audio core**  
+  *PREEMPT_RT 6.12.17* tuned by the **Lyrion SQ** patch-set → lower latency, less jitter, cleaner sound.
+
+- **Personal music library manager**  
+  Scan and play files from internal SSD/HDD **or** household NAS (CIFS / NFS).
+
+- **Streaming without ads / QC**  
+  YouTube Music · YouTube · Tidal · Qobuz · Spotify – all playable directly from the LMS UI.
+
+- **Server bridges**  
+  • Roon Core Server  
+  • HQPlayer NAA endpoint  
+  • UPnP / GStreamer renderer (works with BubbleUPnP, mconnect Player, etc.).
+
+- **Offline / Hotspot mode**  
+  No Internet? Enable the PC’s own Wi-Fi AP and control everything from your phone.
+
+- **Next-gen audio transports**  
+  **Diretta** and **AoE Vsound Netmap** for bit-perfect, low-CPU LAN streaming  
+  (lighter than HQPlayer’s network mode, keeps sound un-altered).
+
+- **Universal web control**  
+  Open **`http://<your-PC-IP>:9000`** on any phone, tablet or desktop → Material Skin UI.
+
+- **Live-USB with persistence**  
+  Boots directly from USB; when you’re happy, install to SSD/HDD with one menu click.
+
 
 * [**Lyrion (Logitech Media Server)**](https://github.com/LMS-Community/slimserver)
 * [**Volumio backend**](https://github.com/volumio/volumio3-backend)
