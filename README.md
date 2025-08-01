@@ -15,7 +15,7 @@ Custom, real‑time Linux music‑server & player image that bundles Lyrion (Log
 
 - **Server bridges**  
   • Roon Core Server  
-  • HQPlayer NAA endpoint  
+  • HQPlayer
   • UPnP / GStreamer renderer (works with BubbleUPnP, mconnect Player, etc.).
 
 - **Offline / Hotspot mode**  
