@@ -1,6 +1,6 @@
 AudioOS RT
 
-Custom, real‑time Linux music‑server & player image that bundles Lyrion (Logitech Media Server) and Volumio on a PREEMPT_RT kernel for x86‑64 computers. Built for bit‑perfect, headless playback and lab work.
+Custom, real‑time Linux music‑server & player image that bundles Lyrion (Logitech Media Server) and Volumio on a PREEMPT_RT kernel for x86‑64 computers. Built for bit‑perfect, headless playback.
 
 ## Key capabilities – What’s inside?
 
