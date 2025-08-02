@@ -60,17 +60,6 @@
 2. **Extract** → `LyrionRTVolumio_1.4f7.img`.
 Enjoy it!
 
----
-### Enjoy it!
-<p align="left">
-  <a href="https://buymeacoffee.com/lovehifi" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?logo=buymeacoffee&logoColor=black"
-         alt="Buy Me a Coffee">
-  </a>
-  <br><br>
-  <img src="images/bmc_qr.png" width="140" alt="Buy Me a Coffee QR">
-</p>
-
 
 ## 2  Flash to USB (≥ 16 GB)
 
@@ -107,6 +96,18 @@ Enjoy it!
 - **Volumio build recipe:** <https://github.com/volumio/build-platform-x64>  
 - **Real-time test GUI (cyclictest + jitterdebugger):** <https://github.com/lovehifi/audio-rt-tester>
 
+
+---
+
+### Enjoy it!
+<p align="left">
+  <a href="https://buymeacoffee.com/lovehifi" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?logo=buymeacoffee&logoColor=black"
+         alt="Buy Me a Coffee">
+  </a>
+  <br><br>
+  <img src="images/bmc_qr.png" width="140" alt="Buy Me a Coffee QR">
+</p>
 
 ---
 
