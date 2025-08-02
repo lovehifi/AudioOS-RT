@@ -56,7 +56,11 @@
 
 ---
 
+1. Download the **ZIP** archive.  
+2. **Extract** → `LyrionRTVolumio_1.4f7.img`.
 Enjoy it!
+
+---
 
 <p align="left">
   <a href="https://buymeacoffee.com/lovehifi" target="_blank">
@@ -66,10 +70,6 @@ Enjoy it!
   <br><br>
   <img src="images/bmc_qr.png" width="140" alt="Buy Me a Coffee QR">
 </p>
-
-1. Download the **ZIP** archive.  
-2. **Extract** → `LyrionRTVolumio_1.4f7.img`.
-
 ---
 
 ## 2  Flash to USB (≥ 16 GB)
