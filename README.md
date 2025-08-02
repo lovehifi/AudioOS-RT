@@ -118,7 +118,7 @@ The official build recipe is kept in **Volumio’s** platform tree:
 > HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 
-AudioOS RT is **not affiliated** with Logitech, Volumio SRL or any trademark owner.  
+AudioOS RT is **not affiliated** with Lyrion, Volumio SRL or any trademark owner.  
 All trademarks remain the property of their respective holders.
 
 ---
