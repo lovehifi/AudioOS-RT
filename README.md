@@ -132,7 +132,7 @@ All trademarks remain the property of their respective holders.
 | Volumio build-platform-x64      | GPL-3.0       | <https://github.com/volumio/build-platform-x64>                                                    |
 | Material Skin UI                | MIT / GPL-2.0 | <https://github.com/CDrummond/lms-material/>                                                       |
 | PREEMPT_RT patch-set            | GPL-2.0       | <https://wiki.linuxfoundation.org/realtime/start>                                                  |
-| Integration, packaging & docs   | GPL-3.0       | © 2024-2025 Quatmo                                                                                 |
+| Integration                     | GPL-3.0       | © 2024-2025 Quatmo                                                                                 |
 
 See each repository for complete licence texts.
 
