@@ -1,6 +1,10 @@
 # **AudioOS RT**  
 *A custom, real-time Linux music-server & player image that bundles **Lyrion** and **Volumio** on a **PREEMPT_RT** kernel for x86-64 PCs/NUCs/MAC (Intel).*
 
+*
+If you're looking for a way to turn your computer into a music player with a familiar desktop interface — where you can hit play on YouTube Music, watch music videos, browse news websites while listening to music from Lyrion (connected to your hard drive or NAS), and enjoy many built-in features like Roon Server, HQPlayer, UPnP, and more — you've just found it.
+AudioOS with a Desktop GUI.*
+
 ## Key capabilities – What’s inside?
 
 - **Real-time audio core**  
