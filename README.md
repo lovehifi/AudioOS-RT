@@ -62,7 +62,7 @@ Enjoy it!
          alt="Buy Me a Coffee">
   </a>
   <br><br>
-  <img src="images/bmc_qr.png" width="180" alt="Buy Me a Coffee QR">
+  <img src="images/bmc_qr.png" width="140" alt="Buy Me a Coffee QR">
 </p>
 ---
 
