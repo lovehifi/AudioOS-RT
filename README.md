@@ -29,6 +29,8 @@
 - **Live-USB with persistence**  
   Boots directly from USB; when you’re happy, install to SSD/HDD with one menu click.
 
+- **Built-in real-time test web tool** – run *cyclictest* & *jitterdebugger* from the browser to verify kernel latency in-situ.
+
 
 * [**Lyrion (Logitech Media Server)**](https://github.com/LMS-Community/slimserver)
 * [**Volumio backend**](https://github.com/volumio/volumio3-backend)
