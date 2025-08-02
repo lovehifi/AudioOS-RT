@@ -32,6 +32,7 @@
 - **Built-in real-time test web tool** – run *cyclictest* & *jitterdebugger* from the browser to verify kernel latency in-situ.
 
 
+
 * [**Lyrion (Logitech Media Server)**](https://github.com/LMS-Community/slimserver)
 * [**Volumio backend**](https://github.com/volumio/volumio3-backend)
 * a real-time Linux kernel (**PREEMPT_RT**)
@@ -52,6 +53,18 @@
 | File                        | Link                                                                                                  |
 |-----------------------------|--------------------------------------------------------------------------------------------------------|
 | `LyrionRTVolumio_1.4f7.zip` | <https://drive.google.com/file/d/1PC2QoSamNL9-ymfToYjOjYkiGQWoRSUr/>                                   |
+
+---
+Enjoy it!
+<p align="center">
+  <a href="https://buymeacoffee.com/lovehifi" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?logo=buymeacoffee&logoColor=black"
+         alt="Buy Me a Coffee">
+  </a>
+  <br><br>
+  <img src="images/bmc_qr.png" width="180" alt="Buy Me a Coffee QR">
+</p>
+---
 
 1. Download the **ZIP** archive.  
 2. **Extract** → `LyrionRTVolumio_1.4f7.img`.
