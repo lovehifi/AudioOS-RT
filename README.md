@@ -38,11 +38,11 @@
 * the [**Material Skin**](https://github.com/CDrummond/lms-material/) web UI.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/Lyrion.png"  width="75%" alt="Material Skin UI"><br><br>
-  <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/ontv.jpg"   width="75%" alt="AudioOS RT on TV"><br><br>
-  <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/web_phone.png" width="60%" alt="Control on phone"><br><br>
-  <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/Test_RT.png"  width="65%" alt="Real-time latency test"><br><br>
-  <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/UI.png"       width="75%" alt="Extra UI view">
+  <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/images/Lyrion.png"  width="75%" alt="Material Skin UI"><br><br>
+  <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/images/ontv.jpg"   width="75%" alt="AudioOS RT on TV"><br><br>
+  <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/images/web_phone.png" width="60%" alt="Control on phone"><br><br>
+  <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/images/Test_RT.png"  width="65%" alt="Real-time latency test"><br><br>
+  <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/images/UI.png"       width="75%" alt="Extra UI view">
 </p>
 
 ---
