@@ -1,5 +1,5 @@
 # **AudioOS RT**  
-*A custom, real-time Linux music-server & player image that bundles **Lyrion** and **Volumio** on a **PREEMPT_RT** kernel for x86-64 PCs/NUCs.*
+*A custom, real-time Linux music-server & player image that bundles **Lyrion** and **Volumio** on a **PREEMPT_RT** kernel for x86-64 PCs/NUCs/MAC (Intel).*
 
 ## Key capabilities – What’s inside?
 
