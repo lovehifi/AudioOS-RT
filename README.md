@@ -106,7 +106,9 @@ Enjoy it!
          alt="Buy Me a Coffee">
   </a>
   <br><br>
+<a href="https://buymeacoffee.com/lovehifi" target="_blank">
   <img src="images/bmc_qr.png" width="140" alt="Buy Me a Coffee QR">
+  </a>
 </p>
 
 ---
