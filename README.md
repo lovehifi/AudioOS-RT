@@ -10,7 +10,7 @@
   Scan and play files from internal SSD/HDD **or** household NAS (CIFS / NFS).
 
 - **Streaming** 
-  YouTube Music · YouTube · Tidal · Qobuz · Spotify.
+  • YouTube Music · YouTube Video · Tidal · Qobuz · Spotify.
 
 - **Server bridges**  
   • Roon Core Server
