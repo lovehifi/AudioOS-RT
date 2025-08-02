@@ -52,7 +52,7 @@
 
 | File                        | Link                                                                                                  |
 |-----------------------------|--------------------------------------------------------------------------------------------------------|
-| `LyrionRTVolumio_1.4f7.zip` | <https://drive.google.com/file/d/1PC2QoSamNL9-ymfToYjOjYkiGQWoRSUr/>                                   |
+| `LyrionRTVolumio_1.4f7.zip` | <https://drive.google.com/file/d/1UtdjiEhGvpFZHfnPxZ6VwruOBbxoOhl8/>                                   |
 
 ---
 
