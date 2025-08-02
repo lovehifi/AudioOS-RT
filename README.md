@@ -70,7 +70,7 @@ Enjoy it!
   <br><br>
   <img src="images/bmc_qr.png" width="140" alt="Buy Me a Coffee QR">
 </p>
----
+
 
 ## 2  Flash to USB (≥ 16 GB)
 
