@@ -90,8 +90,9 @@
 
 ## 4  Source & build tools
 
-The official build recipe is kept in **Volumio’s** platform tree:  
-<https://github.com/volumio/build-platform-x64>.
+- **Volumio build recipe:** <https://github.com/volumio/build-platform-x64>  
+- **Real-time test GUI (cyclictest + jitterdebugger):** <https://github.com/lovehifi/audio-rt-tester>
+
 
 ---
 
