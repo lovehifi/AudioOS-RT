@@ -55,7 +55,9 @@
 | `LyrionRTVolumio_1.4f7.zip` | <https://drive.google.com/file/d/1PC2QoSamNL9-ymfToYjOjYkiGQWoRSUr/>                                   |
 
 ---
+
 Enjoy it!
+
 <p align="left">
   <a href="https://buymeacoffee.com/lovehifi" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?logo=buymeacoffee&logoColor=black"
@@ -64,7 +66,6 @@ Enjoy it!
   <br><br>
   <img src="images/bmc_qr.png" width="140" alt="Buy Me a Coffee QR">
 </p>
-
 
 1. Download the **ZIP** archive.  
 2. **Extract** → `LyrionRTVolumio_1.4f7.img`.
