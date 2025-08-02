@@ -14,7 +14,7 @@
 
 - **Server bridges**  
   • Roon Core Server
-  • HQPlayer
+  • HQPlayer (port 8088, user name: hqplayer, pass: hqplayer)
   • UPnP GStreamer renderer (works with BubbleUPnP, mconnect Player, etc.).
 
 - **Offline / Hotspot mode**  
