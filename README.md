@@ -117,8 +117,6 @@ The official build recipe is kept in **Volumio’s** platform tree:
 > TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY  
 > HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-Running PREEMPT_RT kernels, modifying firmware or power settings **may damage
-hardware or void warranties**. Proceed at your own risk.
 
 AudioOS RT is **not affiliated** with Logitech, Volumio SRL or any trademark owner.  
 All trademarks remain the property of their respective holders.
