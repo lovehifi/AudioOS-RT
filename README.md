@@ -134,6 +134,9 @@ All trademarks remain the property of their respective holders.
 | Volumio backend & build scripts | GPL-3.0       | <https://github.com/volumio/volumio3-backend>                                                      |
 | Volumio build-platform-x64      | GPL-3.0       | <https://github.com/volumio/build-platform-x64>                                                    |
 | Material Skin UI                | MIT / GPL-2.0 | <https://github.com/CDrummond/lms-material/>                                                       |
+| Youtube-music plugin            | MIT           | <https://github.com/th-ch/youtube-music>                                                           |
+| Tidal-hifi (HiFi streaming )    | GPL-3.0       | <https://github.com/Mastermindzh/tidal-hifi>                                                       |
+| Gmrender-resurrect (UPnP)       | GPL-2.0       | <https://github.com/hzeller/gmrender-resurrect>                                                    |
 | PREEMPT_RT patch-set            | GPL-2.0       | <https://wiki.linuxfoundation.org/realtime/start>                                                  |
 | Integration                     | GPL-3.0       | © 2024-2025 Quatmo                                                                                 |
 
