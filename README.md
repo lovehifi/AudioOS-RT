@@ -66,7 +66,7 @@ Enjoy it!
 
 ## 2  Flash to USB (≥ 16 GB)
 
-### Windows — Rufus
+### Windows — Rufus or balenaEtcher
 
 1. *Device* ▸ select USB stick  
 2. **SELECT** ▸ open `LyrionRTVolumio_1.4f7.img`  
