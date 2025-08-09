@@ -42,7 +42,7 @@ AudioOS with a Desktop GUI.*
 * the [**Material Skin**](https://github.com/CDrummond/lms-material/) web UI.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/images/Lyrion.png"  width="75%" alt="Material Skin UI"><br><br>
+  <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/images/desktop.jpg"  width="75%" alt="Material Skin UI"><br><br>
  <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/images/audio-out.jpg"  width="75%" alt="Material Skin UI"><br><br>
   <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/images/ontv.jpg"   width="75%" alt="AudioOS RT on TV"><br><br>
   <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/images/web_phone.png" width="60%" alt="Control on phone"><br><br>
