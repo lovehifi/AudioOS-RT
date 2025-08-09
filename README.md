@@ -55,12 +55,12 @@ AudioOS with a Desktop GUI.*
 
 | File                        | Link                                                                                                  |
 |-----------------------------|--------------------------------------------------------------------------------------------------------|
-| `LyrionRTVolumio_1.4f7.zip` | <https://drive.google.com/file/d/1UtdjiEhGvpFZHfnPxZ6VwruOBbxoOhl8/>                                   |
+| `LyrionRTVolumio_1.5.02.zip` | <https://drive.google.com/file/d/1jw50qbKKp5P1nQnIEZ1vhNg21kZhKbRS/>                                   |
 
 ---
 
 1. Download the **ZIP** archive.  
-2. **Extract** → `LyrionRTVolumio_1.4f7.img`.
+2. **Extract** → `LyrionRTVolumio_1.5.02.img`.
 Enjoy it!
 
 
