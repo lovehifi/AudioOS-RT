@@ -30,7 +30,7 @@ AudioOS with a Desktop GUI.*
   Open **`http://<your-PC-IP>:9000`** on any phone, tablet or desktop → Material Skin UI.
 
 - **File Manager web control**  
-  Open **`http://<your-PC-IP>:8090`** on any phone, tablet or desktop → or web:9000, File Manager: user:admin, pass:admin.
+  Open **`http://<your-PC-IP>:8090`** on any phone, tablet or desktop → or web:9000, File Manager: user: admin, pass: admin.
 
 - **Live-USB with persistence**  
   Boots directly from USB; when you’re happy, install to SSD/HDD with one menu click.
