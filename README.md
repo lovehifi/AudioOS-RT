@@ -24,10 +24,13 @@ AudioOS with a Desktop GUI.*
   No Internet? Enable the PC’s own Wi-Fi AP and control everything from your phone.
 
 - **Next-gen audio transports**  
-  **Diretta Host** and **AoE Vsound Netmap** for bit-perfect, low-CPU LAN streaming.
+  **Diretta Host**, **Diretta Target**and **AoE Vsound Netmap** for bit-perfect, low-CPU LAN streaming.
 
 - **Universal web control**  
   Open **`http://<your-PC-IP>:9000`** on any phone, tablet or desktop → Material Skin UI.
+
+- **File Manager web control**  
+  Open **`http://<your-PC-IP>:8090`** on any phone, tablet or desktop → or web:9000, File Manager: user:admin, pass:admin.
 
 - **Live-USB with persistence**  
   Boots directly from USB; when you’re happy, install to SSD/HDD with one menu click.
