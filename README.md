@@ -13,7 +13,7 @@ AudioOS with a Desktop GUI.*
   Scan and play files from internal SSD/HDD **or** household NAS (CIFS / NFS).
 
 - **Streaming** 
-  • YouTube Music · YouTube Video · Tidal · Qobuz · Qobuz Conenct · Spotify.
+  • YouTube Music · YouTube Video · Tidal · Qobuz · Qobuz Connect · Spotify.
 
 - **Server bridges**  
   • Roon Core Server
