@@ -17,7 +17,7 @@ AudioOS with a Desktop GUI.*
 
 - **Server bridges**  
   • Roon Core Server
-  • HQPlayer (port 8088, user name: hqplayer, pass: hqplayer)
+  • HQPlayer Embedded (port 8088, user name: hqplayer, pass: hqplayer)
   • UPnP GStreamer renderer (works with BubbleUPnP, mconnect Player, etc.).
 
 - **Offline / Hotspot mode**  
