@@ -58,9 +58,9 @@ AudioOS with a Desktop GUI.*
 
 ## 1  Download
 
-| File                        | Link                                                                                                  |
+| Version date: 12/08/2025    | Link                                                                                                   |
 |-----------------------------|--------------------------------------------------------------------------------------------------------|
-| `LyrionRTVolumio_1.5.04.zip` | <https://drive.google.com/file/d/1oFLf10fPZsP8CnPhmX-UesVnEmeKkDmS/>                                   |
+| `LyrionRTVolumio_1.5.04.zip`| <https://drive.google.com/file/d/1oFLf10fPZsP8CnPhmX-UesVnEmeKkDmS/>                                   |
 
 ---
 
