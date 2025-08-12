@@ -74,7 +74,7 @@ Enjoy it!
 ### Windows — Rufus or balenaEtcher
 
 1. *Device* ▸ select USB stick  
-2. **SELECT** ▸ open `LyrionRTVolumio_1.4f7.img`  
+2. **SELECT** ▸ open `LyrionRTVolumio_xx.img`  
 3. Keep GPT + UEFI defaults → **START**  
 4. Wait for **READY** → eject stick
 
