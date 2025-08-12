@@ -80,7 +80,7 @@ Enjoy it!
 
 ### Linux / macOS — balenaEtcher
 
-1. **Flash from file** ▸ choose `LyrionRTVolumio_1.4f7.img`  
+1. **Flash from file** ▸ choose `LyrionRTVolumio_xx.img`  
 2. **Select target** ▸ USB stick  
 3. **Flash** → eject when done
 
