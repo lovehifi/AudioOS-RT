@@ -58,14 +58,14 @@ AudioOS with a Desktop GUI.*
 
 ## 1  Download
 
-| Version date: 19/08/2025    | Lyrion AudioOs for PC/MAC x64 and rAudio for Pi 2, Pi 3, Pi 4                                          |
+| Version date: 19/08/2025    | Lyrion AudioOs 1.5.07 for PC/MAC x64 and rAudio for Pi 2, Pi 3, Pi 4                                   |
 |-----------------------------|--------------------------------------------------------------------------------------------------------|
-| `LyrionRTVolumio_1.5.07.zip`| <https://drive.google.com/drive/folders/1Qi8IetveZuPb26yYpYQ0LMHmYODGYwyG/>                            |
+| `LyrionRTVolumio_x.x.zip`| <https://drive.google.com/drive/folders/1Qi8IetveZuPb26yYpYQ0LMHmYODGYwyG/>                               |
 
 ---
 
 1. Download the **ZIP** archive.  
-2. **Extract** → `LyrionRTVolumio_1.5.07.img`.
+2. **Extract** → `LyrionRTVolumio_x.x.img`.
 Enjoy it!
 
 
@@ -74,7 +74,7 @@ Enjoy it!
 ### Windows — Rufus or balenaEtcher
 
 1. *Device* ▸ select USB stick  
-2. **SELECT** ▸ open `LyrionRTVolumio_xx.img`  
+2. **SELECT** ▸ open `LyrionRTVolumio_x.x.img`  
 3. Keep GPT + UEFI defaults → **START**  
 4. Wait for **READY** → eject stick
 
