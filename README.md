@@ -50,7 +50,8 @@ AudioOS with a Desktop GUI.*
   <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/images/web_phone.png" width="60%" alt="Control on phone"><br><br>
   <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/images/Test_RT.png"  width="65%" alt="Real-time latency test"><br><br>
   <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/images/UI.png"       width="75%" alt="Extra UI view">
----
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/lovehifi/AudioOS-RT/refs/heads/main/images/diretta.png"       width="75%" alt="Diretta Play">
 </p>
 
