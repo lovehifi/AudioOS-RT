@@ -60,7 +60,7 @@ AudioOS with a Desktop GUI.*
 
 ## 1  Download
 
-| Version date: 19/08/2025    | Lyrion AudioOs 1.5.07 for PC/MAC x64 and rAudio for Pi 2, Pi 3, Pi 4                                   |
+| Version date: 11/09/2025    | Lyrion AudioOs for PC/MAC x64 and rAudio for Pi 2, Pi 3, Pi 4                                   |
 |-----------------------------|--------------------------------------------------------------------------------------------------------|
 | `LyrionRTVolumio_x.x.zip`| <https://drive.google.com/drive/folders/1Qi8IetveZuPb26yYpYQ0LMHmYODGYwyG/>                               |
 
