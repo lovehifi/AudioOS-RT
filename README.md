@@ -71,7 +71,7 @@ AudioOS with a Desktop GUI.*
 Enjoy it!
 
 
-## 2  Flash to USB (≥ 16 GB)
+## 2  Flash to USB 3.0 up (≥ 32 GB)
 
 ### Windows — Rufus or balenaEtcher
 
