@@ -57,7 +57,8 @@ AudioOS with a Desktop GUI.*
 </p>
 
 ---
-## App IOS
+## App LyrPlay IOS
+Remote Control Lyrion Music Server for iPad and iPhone
 https://apps.apple.com/us/app/lyrplay/id6746776736
 
 
