@@ -64,7 +64,7 @@ https://apps.apple.com/us/app/lyrplay/id6746776736
 
 ## 1  Download
 
-| Version date: 15/09/2025    | Lyrion AudioOs 1.5.14 for PC/MAC x64 and LyrionRT for Pi 4 and Pi 5                                |
+| Version date: 06/10/2025    | Lyrion AudioOs 1.5.16 for PC/MAC x64                               |
 |-----------------------------|--------------------------------------------------------------------------------------------------------|
 | `LyrionRTVolumio_x.x.zip`| <https://drive.google.com/drive/folders/1Qi8IetveZuPb26yYpYQ0LMHmYODGYwyG/>                               |
 
